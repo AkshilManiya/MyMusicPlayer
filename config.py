@@ -1,0 +1,6 @@
+PREV_PATH = "images\\prev.png"
+PAUSE_PATH = "images\\pause.png"
+PLAY_PATH = "images\\play.png"
+RSUME_PATH = "images\\resume.png"
+NEXT_PATH = "images\\next.png"
+LOGO_PATH = "images\\musical-note.ico"
