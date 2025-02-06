@@ -10,7 +10,7 @@ import time
 from config import PREV_PATH, PAUSE_PATH, PLAY_PATH, RSUME_PATH, NEXT_PATH, LOGO_PATH
 
 
-DEFAULT_DIR = "D:\\songs\\B"
+DEFAULT_DIR = "MyMusic" # add your default music container directory
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("green")
 
