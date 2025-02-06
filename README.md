@@ -61,9 +61,8 @@ pip install -r requirements.txt
 ```
 
 ### 3️⃣ Run the Application
-```bash
-python MyMusicPlayer.py
-```
+-- click on MyMusicPlayer.pyw
+-- it will directly open without console.
 
 ---
 
