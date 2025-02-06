@@ -61,8 +61,8 @@ pip install -r requirements.txt
 ```
 
 ### 3️⃣ Run the Application
--- click on MyMusicPlayer.pyw
--- it will directly open without console.
+- Click on `MyMusicPlayer.pyw`
+- It will directly open without a console.
 
 ---
 
